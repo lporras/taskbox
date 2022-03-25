@@ -74,5 +74,8 @@
     "msw": "^0.36.8",
     "msw-storybook-addon": "^1.6.0",
     "react-test-renderer": "^17.0.2"
+  },
+  "msw": {
+    "workerDirectory": "public"
   }
 }
